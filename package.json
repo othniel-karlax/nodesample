@@ -1,0 +1,10 @@
+{
+  "name": "node-api-postgres",
+  "version": "1.0.0",
+  "description": "RESTful API with Node.js, Express",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
